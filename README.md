@@ -1,2 +1,2 @@
 # Humedad_calculo
-Codigo para tyrabajo final de calculo
+Codigo para trabajo final de calculo
